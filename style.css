@@ -1,0 +1,36 @@
+*{
+      margin: 0;
+      padding: 0;
+      }
+.carousel-inner img{
+      width: 100%;
+      height: 100%;
+      }
+.jumbotron{
+      background-image: linear-gradient(to right,#00aaff,#00ffcc,#ffa64d,#ff0066);
+      }
+.carousel .slide{
+      height: 500px;
+      }
+.dropdown-menu .dropdown-item:hover{
+      background-color: #4285F4;
+      color: white;
+      }
+#aboutus .container{
+      background-image: linear-gradient(to right,#00aaff,#00ffcc,#ffa64d,#ff0066);
+      color: white;
+      }
+#cmnts .container .btn{
+      background-image: linear-gradient(to right,#00ffcc,#ffa64d,#ff0066);
+      }
+#social-media .container .icons a img{
+      width: 8%;
+      height: 10%;
+      }
+#social-media .container .icons a:hover img{
+      transform: translateY(-12px);
+      }
+#footer .container-fluid .row .col-sm-4 img{
+	width: 15%;
+	height: 28%;
+}
