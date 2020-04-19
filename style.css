@@ -34,3 +34,9 @@
 	width: 15%;
 	height: 28%;
 }
+.carousel-caption h1{
+      font-size: 150%;
+}
+.carousel-caption h3{
+      font-size: 90%;
+}
