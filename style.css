@@ -35,8 +35,12 @@
 	height: 28%;
 }
 .carousel-caption h1{
-      font-size: 150%;
+      margin: 0;
+      padding: 0;
+      font-size: 4vw;
 }
 .carousel-caption h3{
-      font-size: 90%;
+      margin: 0;
+      padding: 0;
+      font-size: 3vw;
 }
